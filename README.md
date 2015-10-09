@@ -1,2 +1,2 @@
 # PushNotificationStub
-PushNotificationStub for iOS to leave an connection to the APNS sandbox open.
+PushNotificationStub for iOS to leave a connection to the APNS sandbox open.
