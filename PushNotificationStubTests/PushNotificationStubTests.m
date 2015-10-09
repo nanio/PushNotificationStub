@@ -2,8 +2,6 @@
 //  PushNotificationStubTests.m
 //  PushNotificationStubTests
 //
-//  Created by Thomas Federer on 05.08.15.
-//  Copyright (c) 2015 nanio. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
